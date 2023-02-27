@@ -799,6 +799,7 @@ footer {
     font-size: 35px;
   }
   .green-texts {
+    margin-top: 60px;
     width: 70%;
   }
   .green-texts h2 {
@@ -860,6 +861,12 @@ footer {
   .green__img img {
     width: 350px;
   }
+  .rasmlar{
+    padding-left: 0px;
+  }
+  .rasm{
+    width:100px;
+  }
 }
 /* 800 px */
 
@@ -878,8 +885,8 @@ footer {
     width: 300px;
   }
   .white img {
-  width:450px;
-  margin-left:5%;
+  width:300px;
+  margin-left: 0px;
 
 }
 .footer-items{
@@ -919,6 +926,7 @@ footer {
     margin-left: 35%;
 
   }
+  
 }
 /* 600 px */
 @media only screen and (max-width: 500px) {
@@ -927,6 +935,7 @@ footer {
     flex-direction: column;
     width: 100%;
   }
+
 
 
 }
